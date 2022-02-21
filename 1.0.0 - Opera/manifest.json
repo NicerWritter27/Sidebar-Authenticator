@@ -1,0 +1,21 @@
+{
+    "manifest_version": 2,
+    "name": "Sidebar Authenticator",
+    "version": "2.0.2.1",
+    "description": "Don't pick up your phone just to open your authenticator, just use this instead! Now in light theme!",
+    "permissions": [ "storage", "unlimitedStorage" ],
+    "sidebar_action": {
+	"default_panel": "index.html",
+	"default_icon": "css/images/24.png",
+	"default_name": "Sidebar Authenticator"
+    },
+    "icons": {
+	    "128": "css/images/128.png",
+	    "64": "css/images/64.png",
+	    "48": "css/images/48.png",
+	    "32": "css/images/32.png",
+	    "24": "css/images/24.png",
+	    "16": "css/images/16.png"
+    },
+    "minimum_chrome_version": "70"
+}
